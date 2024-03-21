@@ -1,0 +1,23 @@
+{
+  "name": "gpverse-db",
+  "version": "1.0.0",
+  "description": "A Simple IoT Plataform - DB Module.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavPro0/gpverse.git"
+  },
+  "author": "GavPro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavPro0/gpverse/issues"
+  },
+  "homepage": "https://github.com/GavPro0/gpverse#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
+
