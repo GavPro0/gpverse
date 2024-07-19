@@ -1,3 +1,3 @@
-# gpverse [14-s]
+# gpverse [main]
 
 IoT Project with different modules.
